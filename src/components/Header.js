@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Header({tech, onDelete}){
+function Header(){
   return (
     <header>
       <nav>
